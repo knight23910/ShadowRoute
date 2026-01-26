@@ -44,7 +44,7 @@ Internet
 ---
 
 ## 📁 Project Structure
-
+```text
 shadowroute/
 ├── core/
 │   ├── proxy_manager.py
@@ -65,7 +65,7 @@ shadowroute/
 ├── README.md
 ├── SECURITY.md
 └── LICENSE
-
+```
 ---
 
 ## ⚙️ Installation
