@@ -69,7 +69,7 @@ shadowroute/
 ---
 
 ## ⚙️ Installation
-
+```text
 git clone https://github.com/yourusername/shadowroute.git  
 cd shadowroute  
 pip install -r requirements.txt  
@@ -110,7 +110,7 @@ config/settings.yaml
 rotation_interval: 10  
 
 (Set any value in seconds)
-
+```
 ---
 
 ## ⚠️ Legal & Ethical Use
