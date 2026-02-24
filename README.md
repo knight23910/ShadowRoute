@@ -1,7 +1,6 @@
 # ShadowRoute 🛡️ 
 ### Hybrid Network Privacy & IP Rotation Framework
 
-nbmbfhcd
 ShadowRoute is an open-source network privacy protection framework that combines:
 
 ✅ VPN tunneling (WireGuard/OpenVPN)  
