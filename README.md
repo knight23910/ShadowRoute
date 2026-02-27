@@ -1,4 +1,4 @@
-# ShadowRoute 🛡️ bgfuhgr
+# ShadowRoute 🛡️
 ### Hybrid Network Privacy & IP Rotation Framework
 
 
